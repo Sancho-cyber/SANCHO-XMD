@@ -1,9 +1,9 @@
-<h1 align="center"> QUEEN RIAS V2</h1>
+<h1 align="center">S.A.N.C.H.O XMD</h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;QUEEN+RIAS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+28.09.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;S.A.N.C.H.O+XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SANCHO+OFFICIAL;RELEASED+28.09.24" alt="Typing SVG" /></a>
   </p>
     <a href="https://ibb.co/MsM8G1b"><img src="https://i.ibb.co/bPzH2vx/IMG-20240906-154743-430.jpg" alt="IMG-20240906-154743-430" border="0"></a>
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Queen-RiasV2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Queen-RiasV2?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Queen-RiasV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Queen-RiasV2?color=green&style=flat-square"></a>
+<a href="https://github.com/Sancho official/S.A.N.C.H.O-XMDV1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Queen-RiasV2?color=green&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Queen-RiasV2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Queen-RiasV2?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
@@ -20,7 +20,7 @@
 
 ### 1.`First STAR 🌟 This Repo ` And Then Click Fork Below
 <br>
-    <a href='https://github.com/Toxic1239/Queen-RiasV2/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=Github&logoColor=white'/></a>
+    <a href='https://github.com/SANCHO OFFICIAL/Queen-RiasV2/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/-Fork-blue?style=for-the-badge&logo=Github&logoColor=white'/></a>
 
 ### 2. GET CREDS.JSON HERE 
 
@@ -114,8 +114,10 @@ npm start
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On TELEGRAM**](https://t.me/Toxxicn_bot)
-- [**CHANNEL**](https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P) 
+- [**On TELEGRAM**](...
+
+)
+https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C) 
 ***
 ### WARNING
 
@@ -124,15 +126,15 @@ npm start
 - *Use QUEEN-RIAS at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL REPO VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/Riasgv2/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SANCHO XMDv2/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## [WEBSITE](https://toxxic-site.vercel.app/) 
+ ## [WEBSITE](https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C) 
 ### THANKS TO:
 
-- Myself Toxxic For making This bot
+- Myself Sancho Official For making This bot
 - B.m.b for his support and some cases added 
 - Veran For Support
 - Xeon for Some Cases
-- King for Fixing Some Cases 
+- 
