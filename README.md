@@ -7,8 +7,8 @@
   </p>
     <a href="https://ibb.co/MsM8G1b"><img src="https://i.ibb.co/bPzH2vx/IMG-20240906-154743-430.jpg" alt="IMG-20240906-154743-430" border="0"></a>
 <p align="center">
-<pQUEEN-RIAS align="center">
-<a href="https://github.com/Toxic1239/Queen-RiasV2"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
+<pS.A.N.C.H.O-XMD align="center">
+<a href="https://github.com/Toxic1239/S.A.N.C.O-XMDV1"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Queen-RiasV2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Queen-RiasV2?color=red&style=flat-square"></a>
