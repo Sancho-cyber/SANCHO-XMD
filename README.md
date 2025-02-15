@@ -5,10 +5,10 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;S.A.N.C.H.O+XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SANCHO+OFFICIAL;RELEASED+28.09.24" alt="Typing SVG" /></a>
   </p>
-    <a href="https://ibb.co/MsM8G1b"><img src="https://i.ibb.co/bPzH2vx/IMG-20240906-154743-430.jpg" alt="IMG-20240906-154743-430" border="0"></a>
+    <a href="https://ibb.co/MsM8G1b"><img src="https://i.ibb.co/bPzH2vx/IMG-20240906-154743-430.jpg" alt="https://ibb.co/VYzJ8HqS" border="0"></a>
 <p align="center">
 <pS.A.N.C.H.O-XMD align="center">
-<a href="https://github.com/Toxic1239/S.A.N.C.O-XMDV1"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sancho Official/S.A.N.C.O-XMDV1"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Queen-RiasV2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Queen-RiasV2?color=red&style=flat-square"></a>
